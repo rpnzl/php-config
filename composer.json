@@ -1,0 +1,11 @@
+{
+    "name": "rpnzl/php-config",
+    "description": "A generic config class for PHP",
+    "authors": [
+        {
+            "name": "Michael Giuliana",
+            "email": "michael.giuliana@gmail.com"
+        }
+    ],
+    "require": {}
+}
