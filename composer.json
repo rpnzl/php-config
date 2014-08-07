@@ -1,11 +1,13 @@
 {
-    "name": "rpnzl/php-config",
-    "description": "A generic config class for PHP",
-    "authors": [
-        {
-            "name": "Michael Giuliana",
-            "email": "michael.giuliana@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "rpnzl/php-config",
+  "description": "A generic config class for PHP",
+  "authors": [
+    {
+      "name": "Michael Giuliana",
+      "email": "michael.giuliana@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": { "": "src/" }
+  }
 }
